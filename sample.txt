@@ -1,0 +1,6 @@
+first u have statrt the php code of the line 
+by using php /bin/console server:run
+
+command and 
+
+http:127.0.0.1:8000/app_dev.php/lucky/number
